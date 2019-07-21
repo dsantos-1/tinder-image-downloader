@@ -14,7 +14,7 @@ This has been developed and tested in Python 3.7.2, on Windows 10.
 3. Install dependencies with `pip install -r requirements.txt`.
 4. Find your Tinder X-Auth-Token using the instructions in Sanskar Jethi's [Medium post](https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44).
 5. Run the script with `python tinder-img-downloader.py "X-Auth-Token"`, where `X-Auth-Token` is the X-Auth-Token you just found.
-    * The scripts creates a directory called **Unblurred Tinder Photos**, which contains a directory for each user that liked your profile. Each directory contains the pictures of that user.
+    * The script creates a directory called **Unblurred Tinder Photos**, which contains a directory for each user that liked your profile. Each directory contains the pictures of that user.
 	
 # Credits (in alphabetical order)
 

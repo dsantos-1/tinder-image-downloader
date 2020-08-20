@@ -1,5 +1,7 @@
 # Tinder Image Downloader (TID)
 
+## Note: this exploit no longer works as of August 19th, 2020, since the Tinder development team has patched the vulnerability. Thank you for your comprehension.
+
 This script downloads the unblurred photos of users that liked your Tinder profile. That feature is available to premium users only.
 It exploits a Tinder API vulnerability explained in Sanskar Jethi's [Medium post](https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44).
 
